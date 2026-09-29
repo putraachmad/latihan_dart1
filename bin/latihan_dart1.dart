@@ -126,6 +126,6 @@ void fungsiTeksNullable([String? nama]) {
 void main() { 
 fungsiTeks("arif", "Indonesia"); 
 } 
-void fungsiTeks(var nama, var negara){ 
+void fungsiTeks(nama, negara){ 
 print("Hi, nama saya $nama, saya dari $negara"); 
 }
